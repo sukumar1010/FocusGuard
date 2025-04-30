@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="accessibility_service_description">This permission will block selected apps for the selected time frame to maintain distraction free environment </string>
+</resources>
